@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/iylinjacob/Project-2/_apis/build/status/iJacob10.pipelines-dotnet-core)](https://dev.azure.com/iylinjacob/Project-2/_build/latest?definitionId=2)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
